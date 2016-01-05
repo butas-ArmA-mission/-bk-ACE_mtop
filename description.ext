@@ -1,0 +1,8 @@
+// Mission Header
+
+loadScreen = "title.jpg";
+onLoadMission = "Daybreak's Bell";
+OnLoadMissionTime = FALSE;
+
+
+Respawn = 5;
